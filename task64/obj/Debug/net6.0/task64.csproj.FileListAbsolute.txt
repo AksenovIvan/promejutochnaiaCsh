@@ -1,0 +1,30 @@
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\task64\obj\Debug\net6.0\task64.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\task64\obj\Debug\net6.0\task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\task64\obj\Debug\net6.0\task64.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\task64\obj\Debug\net6.0\task64.AssemblyInfo.cs
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\task64\obj\Debug\net6.0\task64.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\task64\bin\Debug\net6.0\task64.exe
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\task64\bin\Debug\net6.0\task64.deps.json
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\task64\bin\Debug\net6.0\task64.runtimeconfig.json
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\task64\bin\Debug\net6.0\task64.dll
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\task64\bin\Debug\net6.0\task64.pdb
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\task64\obj\Debug\net6.0\task64.dll
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\task64\obj\Debug\net6.0\refint\task64.dll
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\task64\obj\Debug\net6.0\task64.pdb
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\task64\obj\Debug\net6.0\task64.genruntimeconfig.cache
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\task64\obj\Debug\net6.0\ref\task64.dll
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\Аксенов Иван. Промежуточная аттестация\task64\bin\Debug\net6.0\task64.exe
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\Аксенов Иван. Промежуточная аттестация\task64\bin\Debug\net6.0\task64.deps.json
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\Аксенов Иван. Промежуточная аттестация\task64\bin\Debug\net6.0\task64.runtimeconfig.json
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\Аксенов Иван. Промежуточная аттестация\task64\bin\Debug\net6.0\task64.dll
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\Аксенов Иван. Промежуточная аттестация\task64\bin\Debug\net6.0\task64.pdb
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\Аксенов Иван. Промежуточная аттестация\task64\obj\Debug\net6.0\task64.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\Аксенов Иван. Промежуточная аттестация\task64\obj\Debug\net6.0\task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\Аксенов Иван. Промежуточная аттестация\task64\obj\Debug\net6.0\task64.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\Аксенов Иван. Промежуточная аттестация\task64\obj\Debug\net6.0\task64.AssemblyInfo.cs
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\Аксенов Иван. Промежуточная аттестация\task64\obj\Debug\net6.0\task64.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\Аксенов Иван. Промежуточная аттестация\task64\obj\Debug\net6.0\task64.dll
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\Аксенов Иван. Промежуточная аттестация\task64\obj\Debug\net6.0\refint\task64.dll
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\Аксенов Иван. Промежуточная аттестация\task64\obj\Debug\net6.0\task64.pdb
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\Аксенов Иван. Промежуточная аттестация\task64\obj\Debug\net6.0\task64.genruntimeconfig.cache
+C:\Users\USER\Desktop\РАЗРАБОТКА (GB)\Знакомство с C#\Seminar\Аксенов Иван. Промежуточная аттестация\task64\obj\Debug\net6.0\ref\task64.dll
